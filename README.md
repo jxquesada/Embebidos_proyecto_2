@@ -10,5 +10,5 @@ Estos folders contienen la información de los documentos para generar el bitbak
 Se utilizo como base el proyecto tomado de https://github.com/GabySol/OmesTutorials2020  al cual se le realizaron las modificaciones para que genera un archivo log.txt donde 
 se documentara la emocion leida y el tiempo del que se leyo.
 
-
+En este repositorio se pusieron los 3 scripts que permiten generar el modelado de entrenamiento, y luego el código base para poder realizar el reconocimiento de emociones.
 
